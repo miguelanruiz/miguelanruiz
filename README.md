@@ -13,6 +13,8 @@
     ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
     ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white)
+    ![Cython](https://img.shields.io/badge/Cython-646464?logo=cython&logoColor=white)
+
 
 - ## Frameworks
     ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
